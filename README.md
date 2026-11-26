@@ -5,7 +5,6 @@ A small always-on-top desktop widget that shows the **current leading project** 
 
 - Recreates the project card from the site: name, byline, progress %, stage and rank,
   evidence chips, summary, milestones and the four progress bars
-- States clearly whether the leading project has **public or private code**
 - Checks every 60 seconds (the site itself refreshes about every 3 hours)
 - Desktop notification, sound and an in-widget banner when the leader changes
   (and optionally when the leader's percentage changes)
