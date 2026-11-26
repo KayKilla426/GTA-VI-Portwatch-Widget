@@ -1,0 +1,11 @@
+# local state
+portwatch_state.json
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
